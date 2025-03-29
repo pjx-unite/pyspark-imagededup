@@ -1,0 +1,5 @@
+.idea
+src/.ipynb_checkpoints
+src/cifar10_images
+src/similar_images.txt
+
